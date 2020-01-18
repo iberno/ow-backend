@@ -1,1 +1,3 @@
-## Semana OminiStack 10
+## OminiStack Week 10
+
+** Backend in NODE, EXPRESS, AXIOS, MONGODB and MONGOOSE.
