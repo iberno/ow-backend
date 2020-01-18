@@ -7,6 +7,6 @@ const routes = Router();
 routes.get('/devs', DevController.getDevs);
 routes.post('/devs', DevController.createDev);
 
-routes.get('/search', SearchController.index);
+routes.get('/search', SearchController.searchDev);
 
 module.exports = routes;
